@@ -8,7 +8,7 @@ The project was developed using KAN agile methodology and BDD (Behavior-Driven D
 
 This document details the test plan, the functionalities tested, the results of the executed tests and the bug reports.
 
-## E2E Automation – Technologies
+## Technologies
 
 [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
 
