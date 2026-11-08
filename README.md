@@ -1,12 +1,12 @@
-# Manual and Automated QA Project for the QA Bootcamp Website
+# Manual and Automated QA Project for the Café Aurora Website
 
 In this project, a complete Quality Assurance (QA) process was carried out on the main functionality of the website: https://cafeqaexperience.lovable.app//
 
-The project was developed as a team using the Scrum agile methodology and BDD (Behavior-Driven Development) for test design before development, following testing best practices.
+The project was developed using KAN agile methodology and BDD (Behavior-Driven Development) for test design before development, following testing best practices.
 
 ## Test Plan, Results, and Bug Reports: [View Test Plan](https://irenearribas.atlassian.net/wiki/spaces/KAN/pages/edit-v2/131181)
 
-This document details the test plan, the functionalities tested, the results of the executed tests, and the bug reports.
+This document details the test plan, the functionalities tested, the results of the executed tests and the bug reports.
 
 ## E2E Automation – Technologies
 
@@ -20,7 +20,7 @@ This document details the test plan, the functionalities tested, the results of 
 
 ## Automated Test Results
 
-A continuous integration workflow has been configured with GitHub Actions to run the tests after every change and once a week at the end of each sprint.
+A continuous integration workflow has been configured with GitHub Actions to run the tests after every change and once a week.
 
 You can check the latest test execution results and download the test report from the following link:
 
